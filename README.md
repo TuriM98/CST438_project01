@@ -18,7 +18,7 @@ Location Finder (GPS)
 News/Alerts for current day
 Displaying the weather/ app design layout
 
-Some useful tutorial on using external APIs in android
+Some useful tutorial on using external APIs in android and java :
 https://wtmimura.com/post/calling-api-on-android-studio/#chapter-1
 https://rapidapi.com/blog/how-to-use-an-api-with-java/
 https://www.androidauthority.com/use-web-api-android-1152645/
