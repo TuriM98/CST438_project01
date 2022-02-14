@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Desktop/CSUMB/CST438-01_SP22_Software_Engineering/CST438_project01/Brendon_Design/app/src/main/res/drawable/card_back.xml" value="0.241" />
         <entry key="..\:/Desktop/CSUMB/CST438-01_SP22_Software_Engineering/CST438_project01/Brendon_Design/app/src/main/res/layout/activity_main.xml" value="0.4040778498609824" />
+        <entry key="..\:/Desktop/CSUMB/CST438-01_SP22_Software_Engineering/CST438_project01/Brendon_Design/app/src/main/res/layout/weather_rv_item.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
